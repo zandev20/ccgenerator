@@ -1,2 +1,0 @@
-# ccgenrator
-new website
